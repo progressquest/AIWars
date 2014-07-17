@@ -1,0 +1,9 @@
+c:\users\todd\documents\visual studio 2013\Projects\AIWars.Battleship\Server\bin\Debug\Server.dll
+c:\users\todd\documents\visual studio 2013\Projects\AIWars.Battleship\Server\bin\Debug\Server.pdb
+c:\users\todd\documents\visual studio 2013\Projects\AIWars.Battleship\Server\obj\Debug\Server.csprojResolveAssemblyReference.cache
+c:\users\todd\documents\visual studio 2013\Projects\AIWars.Battleship\Server\obj\Debug\Server.dll
+c:\users\todd\documents\visual studio 2013\Projects\AIWars.Battleship\Server\obj\Debug\Server.pdb
+C:\Users\Todd\Documents\Visual Studio 2013\Projects\AIWars.Battleship\Server\bin\Debug\GameRepository.dll
+C:\Users\Todd\Documents\Visual Studio 2013\Projects\AIWars.Battleship\Server\bin\Debug\EntityFramework.dll
+C:\Users\Todd\Documents\Visual Studio 2013\Projects\AIWars.Battleship\Server\bin\Debug\GameRepository.pdb
+C:\Users\Todd\Documents\Visual Studio 2013\Projects\AIWars.Battleship\Server\bin\Debug\EntityFramework.xml

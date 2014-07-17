@@ -1,0 +1,15 @@
+c:\users\todd\documents\visual studio 2013\Projects\AIWars.Battleship\ServerTests\bin\Debug\ServerTests.dll
+c:\users\todd\documents\visual studio 2013\Projects\AIWars.Battleship\ServerTests\bin\Debug\ServerTests.pdb
+c:\users\todd\documents\visual studio 2013\Projects\AIWars.Battleship\ServerTests\bin\Debug\nunit.framework.dll
+c:\users\todd\documents\visual studio 2013\Projects\AIWars.Battleship\ServerTests\bin\Debug\Server.dll
+c:\users\todd\documents\visual studio 2013\Projects\AIWars.Battleship\ServerTests\bin\Debug\Server.pdb
+c:\users\todd\documents\visual studio 2013\Projects\AIWars.Battleship\ServerTests\bin\Debug\nunit.framework.xml
+c:\users\todd\documents\visual studio 2013\Projects\AIWars.Battleship\ServerTests\obj\Debug\ServerTests.csprojResolveAssemblyReference.cache
+c:\users\todd\documents\visual studio 2013\Projects\AIWars.Battleship\ServerTests\obj\Debug\ServerTests.dll
+c:\users\todd\documents\visual studio 2013\Projects\AIWars.Battleship\ServerTests\obj\Debug\ServerTests.pdb
+c:\users\todd\documents\visual studio 2013\Projects\AIWars.Battleship\ServerTests\bin\Debug\Moq.dll
+c:\users\todd\documents\visual studio 2013\Projects\AIWars.Battleship\ServerTests\bin\Debug\Moq.xml
+C:\Users\Todd\Documents\Visual Studio 2013\Projects\AIWars.Battleship\ServerTests\bin\Debug\GameRepository.dll
+C:\Users\Todd\Documents\Visual Studio 2013\Projects\AIWars.Battleship\ServerTests\bin\Debug\EntityFramework.dll
+C:\Users\Todd\Documents\Visual Studio 2013\Projects\AIWars.Battleship\ServerTests\bin\Debug\GameRepository.pdb
+C:\Users\Todd\Documents\Visual Studio 2013\Projects\AIWars.Battleship\ServerTests\bin\Debug\EntityFramework.xml

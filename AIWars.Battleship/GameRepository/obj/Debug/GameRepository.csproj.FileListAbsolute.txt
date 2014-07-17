@@ -1,0 +1,10 @@
+C:\Users\Todd\Documents\Visual Studio 2013\Projects\AIWars.Battleship\GameRepository\obj\Debug\GameRepository.csprojResolveAssemblyReference.cache
+C:\Users\Todd\Documents\Visual Studio 2013\Projects\AIWars.Battleship\GameRepository\bin\Debug\GameRepository.dll.config
+C:\Users\Todd\Documents\Visual Studio 2013\Projects\AIWars.Battleship\GameRepository\bin\Debug\GameRepository.dll
+C:\Users\Todd\Documents\Visual Studio 2013\Projects\AIWars.Battleship\GameRepository\bin\Debug\GameRepository.pdb
+C:\Users\Todd\Documents\Visual Studio 2013\Projects\AIWars.Battleship\GameRepository\bin\Debug\EntityFramework.dll
+C:\Users\Todd\Documents\Visual Studio 2013\Projects\AIWars.Battleship\GameRepository\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Todd\Documents\Visual Studio 2013\Projects\AIWars.Battleship\GameRepository\bin\Debug\EntityFramework.xml
+C:\Users\Todd\Documents\Visual Studio 2013\Projects\AIWars.Battleship\GameRepository\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Todd\Documents\Visual Studio 2013\Projects\AIWars.Battleship\GameRepository\obj\Debug\GameRepository.dll
+C:\Users\Todd\Documents\Visual Studio 2013\Projects\AIWars.Battleship\GameRepository\obj\Debug\GameRepository.pdb

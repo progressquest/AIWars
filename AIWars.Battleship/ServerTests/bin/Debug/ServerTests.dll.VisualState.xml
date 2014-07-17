@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<VisualState xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" ShowCheckBoxes="false">
+  <TopNode>[0-1029]C:\Users\Todd\Documents\Visual Studio 2013\Projects\AIWars.Battleship\ServerTests\bin\Debug\ServerTests.dll</TopNode>
+  <SelectedNode>[0-1026]AIWars.Battleship.Server.Tests.BoardSetupTests.PrintBoard_Success</SelectedNode>
+  <ExcludeCategories>false</ExcludeCategories>
+  <Nodes>
+    <Node UniqueName="[0-1029]C:\Users\Todd\Documents\Visual Studio 2013\Projects\AIWars.Battleship\ServerTests\bin\Debug\ServerTests.dll" Expanded="true" />
+    <Node UniqueName="[0-1030]AIWars" Expanded="true" />
+    <Node UniqueName="[0-1031]AIWars.Battleship" Expanded="true" />
+    <Node UniqueName="[0-1032]AIWars.Battleship.Server" Expanded="true" />
+    <Node UniqueName="[0-1033]AIWars.Battleship.Server.Tests" Expanded="true" />
+    <Node UniqueName="[0-1000]AIWars.Battleship.Server.Tests.AttackTests" Expanded="true" />
+    <Node UniqueName="[0-1001]AIWars.Battleship.Server.Tests.AttackTests.GameManager_Attack_Hit_Success" Expanded="true" />
+    <Node UniqueName="[0-1008]AIWars.Battleship.Server.Tests.BoardSetupTests" Expanded="true" />
+  </Nodes>
+</VisualState>

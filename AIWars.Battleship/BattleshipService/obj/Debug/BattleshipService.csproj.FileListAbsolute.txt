@@ -1,0 +1,12 @@
+C:\Users\Todd\Documents\Visual Studio 2013\Projects\AIWars.Battleship\BattleshipService\bin\BattleshipService.dll.config
+C:\Users\Todd\Documents\Visual Studio 2013\Projects\AIWars.Battleship\BattleshipService\bin\BattleshipService.dll
+C:\Users\Todd\Documents\Visual Studio 2013\Projects\AIWars.Battleship\BattleshipService\bin\BattleshipService.pdb
+C:\Users\Todd\Documents\Visual Studio 2013\Projects\AIWars.Battleship\BattleshipService\obj\Debug\BattleshipService.csprojResolveAssemblyReference.cache
+C:\Users\Todd\Documents\Visual Studio 2013\Projects\AIWars.Battleship\BattleshipService\obj\Debug\BattleshipService.dll
+C:\Users\Todd\Documents\Visual Studio 2013\Projects\AIWars.Battleship\BattleshipService\obj\Debug\BattleshipService.pdb
+C:\Users\Todd\Documents\Visual Studio 2013\Projects\AIWars.Battleship\BattleshipService\bin\GameRepository.dll
+C:\Users\Todd\Documents\Visual Studio 2013\Projects\AIWars.Battleship\BattleshipService\bin\Server.dll
+C:\Users\Todd\Documents\Visual Studio 2013\Projects\AIWars.Battleship\BattleshipService\bin\EntityFramework.dll
+C:\Users\Todd\Documents\Visual Studio 2013\Projects\AIWars.Battleship\BattleshipService\bin\GameRepository.pdb
+C:\Users\Todd\Documents\Visual Studio 2013\Projects\AIWars.Battleship\BattleshipService\bin\Server.pdb
+C:\Users\Todd\Documents\Visual Studio 2013\Projects\AIWars.Battleship\BattleshipService\bin\EntityFramework.xml
